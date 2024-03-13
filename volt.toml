@@ -1,0 +1,7 @@
+name = "pastel-collection-lapce"
+display-name = "Pastel Collection"
+description = "A collection of pastel themes for Lapce"
+version = "0.1.0"
+author = "c-sleuth"
+repository = "https://github.com/c-sleuth/pastel-collection-lapce"
+color-themes = ["Vibrant Pastel.toml"]
