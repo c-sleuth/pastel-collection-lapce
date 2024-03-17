@@ -5,4 +5,4 @@ version = "0.1.0"
 author = "c-sleuth"
 icon = "pastel-cat.png"
 repository = "https://github.com/c-sleuth/pastel-collection-lapce"
-color-themes = ["Vibrant Pastel.toml", "Pastel Pale.toml", "Vivid Pastel Dream.toml", "Light Pastel Dawn.toml"]
+color-themes = ["Vibrant Pastel.toml", "Pastel Pale.toml", "Vivid Pastel Dream.toml", "Light Pastel Dawn.toml", "Lively Pastel.toml"]
